@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Montserrat+Alternates|Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+h1 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 50px;
+    margin-left: 10px;
+    font-family: 'Caveat Brush', cursive;
+}
+
+h1 .sar{
+    color: #fff;
+    font-weight: 400;
+    font-size: 50px;
+    margin-left: 10px;
+    font-family: 'Caveat Brush', cursive;
+}
